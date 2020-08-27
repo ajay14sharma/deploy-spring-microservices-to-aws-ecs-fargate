@@ -21,14 +21,14 @@ How about learning AWS by deploying Spring Boot Docker Containers to Amazon Web 
 
 |     Application                 |    Container                                  |
 | ------------------------------- | --------------------------------------------- |
-| Hello World | in28min/aws-hello-world-rest-api:1.0.0-RELEASE |
-| Simple Task | in28min/aws-simple-spring-task:1.0.0-RELEASE |
-| CurrencyExchangeMicroservice-H2 | in28min/aws-currency-exchange-service-h2:0.0.1-SNAPSHOT |
-| CurrencyExchangeMicroservice-H2 - V2 | in28min/aws-currency-exchange-service-h2:1.0.1-RELEASE|
-| CurrencyExchangeMicroSevice-MySQL| in28min/aws-currency-exchange-service-mysql:0.0.1-SNAPSHOT|
-| CurrencyConversionMicroservice | in28min/aws-currency-conversion-service:0.0.1-SNAPSHOT |
-| Currency Exchange - X Ray | in28min/aws-currency-exchange-service-h2-xray:0.0.1-SNAPSHOT|
-| Currency Conversion - X Ray | in28min/aws-currency-conversion-service-xray:0.0.1-SNAPSHOT|
+| Hello World | ajay14sharma/aws-hello-world-rest-api:1.0.0-RELEASE |
+| Simple Task | ajay14sharma/aws-simple-spring-task:1.0.0-RELEASE |
+| CurrencyExchangeMicroservice-H2 | ajay14sharma/aws-currency-exchange-service-h2:0.0.1-SNAPSHOT |
+| CurrencyExchangeMicroservice-H2 - V2 | ajay14sharma/aws-currency-exchange-service-h2:1.0.1-RELEASE|
+| CurrencyExchangeMicroSevice-MySQL| ajay14sharma/aws-currency-exchange-service-mysql:0.0.1-SNAPSHOT|
+| CurrencyConversionMicroservice | ajay14sharma/aws-currency-conversion-service:0.0.1-SNAPSHOT |
+| Currency Exchange - X Ray | ajay14sharma/aws-currency-exchange-service-h2-xray:0.0.1-SNAPSHOT|
+| Currency Conversion - X Ray | ajay14sharma/aws-currency-conversion-service-xray:0.0.1-SNAPSHOT|
 
 |     Utility       |     Container Image        |
 | ------------- | ------------------------- |
